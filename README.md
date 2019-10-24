@@ -10,6 +10,7 @@
 Think ML - https://goodboyanush.github.io/
 Introduction to ML - https://vamsi7575.wordpress.com
 
+Difference Between Linear Regression and Logistic Regression - https://vamsi7575.wordpress.com/difference-between-logistic-and-linear-regression/
 ## Course Overview
 
 | Date                        |                                    Topic                                    | Slides | Notes |
