@@ -9,8 +9,8 @@
 
 Think ML - https://goodboyanush.github.io/
 Introduction to ML - https://vamsi7575.wordpress.com
-
 Difference Between Linear Regression and Logistic Regression - https://vamsi7575.wordpress.com/difference-between-logistic-and-linear-regression/
+Difference between the logostic regression and nueral networks- https://wordpress.com/block-editor/page/vamsi7575.wordpress.com/45
 ## Course Overview
 
 | Date                        |                                    Topic                                    | Slides | Notes |
